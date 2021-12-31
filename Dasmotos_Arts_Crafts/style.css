@@ -1,0 +1,46 @@
+* {
+    margin-top: 0%;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+
+}
+
+h3 {
+    font-weight: bold;
+}
+
+header {
+    background-image: url(img/pattern.png);
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 100px;
+    color: rgb(240, 205, 140);
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+    padding-left: 10px;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+.brushes h2 {
+    background-color: mediumspringgreen;
+}
+
+.frames h2 {
+    background-color: lightcoral;
+}
+
+.paint h2 {
+    background-color: skyblue;
+}
