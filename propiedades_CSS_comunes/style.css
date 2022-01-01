@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: gainsboro; */
+    background-color: #1a1a1a;
+    color: white;
+
+}
+
+table {
+    border: 2px solid #3c40c6;
+    width: 800px;
+    margin: 0 auto;
+    border-collapse: separate;
+    text-indent: initial;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: 17px;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    border-spacing: 3px;
+    font-variant: normal;
+}
+
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+    background-color: #575fcf8c;
+}
+
+td {
+    border-top: 0.5px solid #3c40c6;
+    display: table-cell;
+    vertical-align: inherit;
+    color: #485460;
+}
+
+.code {
+    font-family: monospace;
+    background-color: #808e9b;
+    color: black;
+    border-radius: 2px;
+}
+
+header h1 {
+    font-size: 60px;
+    font-family: monospace;
+}
